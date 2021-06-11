@@ -74,6 +74,13 @@
   </url>
   
   <url>
+    <loc>https://chenxuanzzy.github.io/say-something/tags/other/</loc>
+    <lastmod>2021-06-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://chenxuanzzy.github.io/say-something/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2021-06-11</lastmod>
     <changefreq>daily</changefreq>
@@ -82,13 +89,6 @@
   
   <url>
     <loc>https://chenxuanzzy.github.io/say-something/tags/Book/</loc>
-    <lastmod>2021-06-11</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chenxuanzzy.github.io/say-something/tags/other/</loc>
     <lastmod>2021-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -104,14 +104,14 @@
   </url>
   
   <url>
-    <loc>https://chenxuanzzy.github.io/say-something/categories/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
+    <loc>https://chenxuanzzy.github.io/say-something/categories/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2021-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://chenxuanzzy.github.io/say-something/categories/%E5%85%B6%E4%BB%96/</loc>
+    <loc>https://chenxuanzzy.github.io/say-something/categories/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
     <lastmod>2021-06-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

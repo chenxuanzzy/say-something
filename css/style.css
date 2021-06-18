@@ -1,7 +1,13 @@
 @charset "UTF-8";
 body {
   background-color: #ffffff;
-  font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif; }
+  font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif;
+  color: #282828;
+  font-size: 1.1rem; }
+
+strong {
+  color: black;
+  font-weight: bolder; }
 
 button,
 input,
@@ -21,7 +27,7 @@ a.tag.article-tag {
     color: #3273dc; } }
 
 .navbar-main {
-  border-bottom: 1px solid #c3d4f9;
+  border-bottom: 1px solid #bdc9e3;
   transition: 0.1s ease-in; }
   .navbar-main .navbar-logo {
     font-size: 1.5rem;
@@ -35,12 +41,12 @@ a.tag.article-tag {
     overflow-y: auto; }
 
 .article .second-date-block {
-  color: gray;
+  color: black;
   font-size: 0.8rem; }
 
 .article + .article {
   padding-top: 2rem;
-  border-top: 1px solid #c3d4f9; }
+  border-top: 1px solid #bdc9e3; }
 
 .article .article-title a,
 .article .article-meta a {
@@ -85,14 +91,14 @@ a.tag.article-tag {
     word-break: break-word; }
 
 .article .article-more-link a {
-  font-size: .9rem;
-  color: darkgray;
+  font-size: 1rem;
+  color: #536b9e;
   border-bottom: 1px dotted transparent; }
   .article .article-more-link a:hover {
     border-bottom-color: darkgray; }
 
 .article .article-nav a {
-  color: darkgray;
+  color: black;
   position: relative;
   display: inline-block; }
 
@@ -121,7 +127,7 @@ a.tag.article-tag {
 
 .article .caption {
   display: block;
-  color: darkgray;
+  color: black;
   font-size: .95rem;
   text-align: center; }
 
@@ -216,7 +222,7 @@ a.tag.article-tag {
 .comments {
   margin-top: 3rem;
   padding-top: 3rem;
-  border-top: 1px solid #c3d4f9; }
+  border-top: 1px solid #bdc9e3; }
   .comments > .title {
     font-weight: 300; }
 
@@ -224,7 +230,7 @@ a.tag.article-tag {
   margin-bottom: 3rem; }
 
 .archive .articles {
-  border-left: 1px solid #c3d4f9; }
+  border-left: 1px solid #bdc9e3; }
 
 .archive .article {
   border-top: none;
@@ -249,7 +255,7 @@ a.tag.article-tag {
   background: transparent; }
   .footer .content {
     padding-top: 2rem;
-    border-top: 1px solid #c3d4f9; }
+    border-top: 1px solid #bdc9e3; }
 
 .searchbox {
   display: none; }
@@ -463,12 +469,12 @@ figure.highlight {
   padding: 8px 15px; }
 
 .ins-section .ins-section-header {
-  color: #9a9a9a;
+  color: black;
   border-bottom: 1px solid #e2e2e2; }
 
 .ins-section .ins-slug {
   margin-left: 5px;
-  color: #9a9a9a; }
+  color: black; }
 
 .ins-section .ins-slug:before {
   content: '('; }
@@ -488,7 +494,7 @@ figure.highlight {
 .ins-section .ins-search-item .ins-search-preview {
   height: 15px;
   font-size: 12px;
-  color: #9a9a9a;
+  color: black;
   margin: 5px 0 0 20px; }
 
 .ins-section .ins-search-item:hover,

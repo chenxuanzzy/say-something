@@ -2,16 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://chenxuanzzy.github.io/say-something/2021/06/30/2021-June/20210627-Book-TheProductivityProject/</loc>
+    <loc>https://chenxuanzzy.github.io/say-something/2021/07/17/2021-July/20210717-Remind-mine/</loc>
     
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-07-17</lastmod>
     
   </url>
   
   <url>
     <loc>https://chenxuanzzy.github.io/say-something/2021/06/11/2021-June/20210608-Book-FoodAndCultureOfConsumerism/</loc>
     
-    <lastmod>2021-06-28</lastmod>
+    <lastmod>2021-07-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chenxuanzzy.github.io/say-something/2021/06/30/2021-June/20210627-Book-TheProductivityProject/</loc>
+    
+    <lastmod>2021-07-17</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://chenxuanzzy.github.io/say-something/2021/07/17/2021-July/20210715-Book-TheBookThief/</loc>
+    
+    <lastmod>2021-07-17</lastmod>
     
   </url>
   
@@ -67,50 +81,57 @@
 
   <url>
     <loc>https://chenxuanzzy.github.io/say-something</loc>
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://chenxuanzzy.github.io/say-something/tags/%E6%88%90%E9%95%B7/</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://chenxuanzzy.github.io/say-something/tags/%E6%83%B3%E6%B3%95/</loc>
-    <lastmod>2021-07-01</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://chenxuanzzy.github.io/say-something/tags/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://chenxuanzzy.github.io/say-something/tags/Book/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chenxuanzzy.github.io/say-something/tags/Remind/</loc>
+    <lastmod>2021-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chenxuanzzy.github.io/say-something/tags/%E6%88%90%E9%95%B7/</loc>
+    <lastmod>2021-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chenxuanzzy.github.io/say-something/tags/%E6%83%B3%E6%B3%95/</loc>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://chenxuanzzy.github.io/say-something/tags/%E5%AD%B8%E7%BF%92/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://chenxuanzzy.github.io/say-something/tags/other/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -118,29 +139,36 @@
 
   
   <url>
-    <loc>https://chenxuanzzy.github.io/say-something/categories/%E6%88%90%E9%95%B7/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <loc>https://chenxuanzzy.github.io/say-something/categories/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://chenxuanzzy.github.io/say-something/categories/%E8%AE%80%E6%9B%B8%E5%BF%83%E5%BE%97/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <loc>https://chenxuanzzy.github.io/say-something/categories/Remind/</loc>
+    <lastmod>2021-07-17</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://chenxuanzzy.github.io/say-something/categories/%E6%88%90%E9%95%B7/</loc>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://chenxuanzzy.github.io/say-something/categories/%E5%AD%B8%E7%BF%92/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://chenxuanzzy.github.io/say-something/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2021-07-01</lastmod>
+    <lastmod>2021-07-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

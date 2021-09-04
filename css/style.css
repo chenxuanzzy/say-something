@@ -1,6 +1,9 @@
 @charset "UTF-8";
 body {
-  background-color: #ffffff;
+  background-image: url("../images/20150519015233486.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
   font-family: "Ovo", "Georgia", "STZhongsong", "Noto Serif TC", serif;
   color: #282828;
   font-size: 1.1rem; }

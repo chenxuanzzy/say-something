@@ -1,7 +1,7 @@
 @charset "UTF-8";
 body {
   background-color: #ffffff;
-  font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif;
+  font-family: "Ovo", "Georgia", "STZhongsong", "Noto Serif TC", serif;
   color: #282828;
   font-size: 1.1rem; }
 
@@ -13,7 +13,7 @@ button,
 input,
 select,
 textarea {
-  font-family: "Ovo", "Georgia", "STZhongsong", "Microsoft YaHei", serif; }
+  font-family: "Ovo", "Georgia", "STZhongsong", "Noto Serif TC", serif; }
 
 a.tag.article-tag {
   font-size: 0.9rem;
@@ -327,7 +327,7 @@ a.tag.article-tag {
 code,
 pre {
   font-size: 0.85rem;
-  font-family: "Source Code Pro", monospace, "Microsoft YaHei"; }
+  font-family: "Source Code Pro", monospace, "Noto Serif TC"; }
 
 figure.highlight {
   padding: 0;
@@ -354,7 +354,7 @@ figure.highlight {
     font-size: .8rem; }
     figure.highlight figcaption span {
       font-weight: 500;
-      font-family: "Source Code Pro", monospace, "Microsoft YaHei"; }
+      font-family: "Source Code Pro", monospace, "Noto Serif TC"; }
     figure.highlight figcaption a {
       float: right;
       color: #9a9a9a; }
